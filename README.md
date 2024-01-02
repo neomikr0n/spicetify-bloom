@@ -91,7 +91,7 @@ Use this guide to install if you're having trouble using the shell commands/inst
 5. Open a terminal/command prompt window and type the following commands:
 
    ```shell
-    spicetify config current_theme Bloom color_scheme dark
+    spicetify config current_theme bloom color_scheme dark
     spicetify config inject_css 1 replace_colors 1 overwrite_assets 1 inject_theme_js 1
     spicetify apply
     ```
